@@ -8,7 +8,7 @@
 <a href="https://www.linkedin.com/in/ahcene-bentaha">
 <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="mailto:bentahaahcene44@outlook.com">
+<a href="mailto:ahcene@bentaha.dev">
 <img align="left" alt="Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoftoutlook.svg" />
 </a>
 
@@ -33,7 +33,7 @@ I enjoy building scalable web applications with **Spring Boot** and **Angular**,
 * 💡 Interested in **Information Systems**, **REST APIs**, **Databases**, and **Semantic Web (RDF/SPARQL)**
 * 🤝 Open to collaborating on Java, Spring Boot, Angular and Open Source projects
 * 💬 Ask me about Java, Spring Boot, Angular, SQL, RDF or Software Engineering
-* 📫 Reach me at **[bentahaahcene44@outlook.com](mailto:bentahaahcene44@outlook.com)**
+* 📫 Reach me at **[ahcene@bentaha.dev](mailto:ahcene@bentaha.dev)**
 
 ---
 
@@ -82,6 +82,9 @@ I enjoy building scalable web applications with **Spring Boot** and **Angular**,
 * SPARQL
 * XML
 * UML
+* <p>
+<img src="https://skillicons.dev/icons?i=Neo4j,RDF,SPARQL,XML,UML" />
+</p>
 
 ### Tools
 
@@ -143,13 +146,6 @@ Built with:
 
 ---
 
-## 📈 GitHub Stats
-
-![Ahcene's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahcene-bn\&show_icons=true\&hide_border=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahcene-bn\&layout=compact\&theme=tokyonight)
-
----
 
 ## 🤝 Let's Connect
 
