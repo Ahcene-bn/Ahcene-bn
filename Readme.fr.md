@@ -21,7 +21,7 @@ Licence en Informatique (MIAGE) de **l'Université Grenoble Alpes**.
 
 Passionné par **l'ingénierie logicielle**, les v**systèmes d'information**, le **développement backend** et le **Web sémantique**.
 
-J'aime concevoir des applications web évolutives avec **Spring Boot** et **Angular**, concevoir des bases de données efficaces et contribuer à des **projets open source**. J'aime également apprendre de nouvelles technologies et résoudre des problèmes complexes en programmation.
+J'aime concevoir des applications web avec **Spring Boot** et **Angular**, concevoir des bases de données efficaces et contribuer à des **projets open source**. J'aime également apprendre de nouvelles technologies et résoudre des problèmes complexes en programmation, et quand je suis pas derrière un écran ,c'est que je suis avec ma guitare 🎸
 
 ## À propos de moi
 
