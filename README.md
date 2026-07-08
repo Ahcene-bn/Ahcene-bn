@@ -1,5 +1,5 @@
 # Hello World I'm [Ahcene Bentaha](https://github.com/Ahcene-bn)
-🇬🇧 English | [🇫🇷 Français](README.fr.md)
+🇬🇧 English | [🇫🇷 Version française](README.fr.md)
 <br/>
 
 <a href="https://github.com/Ahcene-bn">
