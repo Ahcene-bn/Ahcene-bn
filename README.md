@@ -120,6 +120,8 @@ Technologies:
 * RDF
 * SPARQL
 * Linked Open Data
+  
+ 🔗 https://gitlab.com/gilles.serasset/dbnary/-/tree/feature/etymology2?ref_type=heads
 
 ---
 
