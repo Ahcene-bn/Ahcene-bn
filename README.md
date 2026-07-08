@@ -1,4 +1,4 @@
-# Hello World 👋 I'm [Ahcene Bentaha](https://github.com/Ahcene-bn)
+# Hello World I'm [Ahcene Bentaha](https://github.com/Ahcene-bn)
 
 <br/>
 
@@ -15,29 +15,27 @@
 <br/>
 <br/>
 
-Hi, I'm **Ahcene Bentaha** 👋
+Hi, I'm **Ahcene Bentaha** 
 
-🎓 Computer Science (MIAGE) graduate from **Université Grenoble Alpes**.
+ Computer Science (MIAGE) graduate from **Université Grenoble Alpes**.
 
-💻 Passionate about **Software Engineering**, **Information Systems**, **Backend Development**, and the **Semantic Web**.
+ Passionate about **Software Engineering**, **Information Systems**, **Backend Development**, and the **Semantic Web**.
 
 I enjoy building scalable web applications with **Spring Boot** and **Angular**, designing efficient databases, and contributing to **open-source projects**. I also love learning new technologies and solving challenging programming problems.
 
-<img align="right" alt="Coding GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="320"/>
+## About Me
 
-## 🚀 About Me
-
-* 🎓 Graduate in Computer Science (MIAGE)
-* 🔬 Former Software Engineering Intern at **Laboratoire d'Informatique de Grenoble (LIG)**
-* 🌱 Currently improving my skills in **Spring Boot**, **Angular**, **System Design**, and **Cloud Technologies**
-* 💡 Interested in **Information Systems**, **REST APIs**, **Databases**, and **Semantic Web (RDF/SPARQL)**
-* 🤝 Open to collaborating on Java, Spring Boot, Angular and Open Source projects
-* 💬 Ask me about Java, Spring Boot, Angular, SQL, RDF or Software Engineering
-* 📫 Reach me at **[ahcene@bentaha.dev](mailto:ahcene@bentaha.dev)**
+*  Graduate in Computer Science (MIAGE)
+*  Former Software Engineering Intern at **Laboratoire d'Informatique de Grenoble (LIG)**
+*  Currently improving my skills in **Spring Boot**, **Angular**, **System Design**, and **Cloud Technologies**
+*  Interested in **Information Systems**, **REST APIs**, **Databases**, and **Semantic Web (RDF/SPARQL)**
+*  Open to collaborating on Java, Spring Boot, Angular and Open Source projects
+*  Ask me about Java, Spring Boot, Angular, SQL, RDF or Software Engineering
+* Reach me at **[ahcene@bentaha.dev](mailto:ahcene@bentaha.dev)**
 
 ---
 
-## 💼 Current Interests
+##  Current Interests
 
 * Backend Development (Java & Spring Boot)
 * Frontend Development (Angular & TypeScript)
@@ -76,27 +74,27 @@ I enjoy building scalable web applications with **Spring Boot** and **Angular**,
 </p>
 
 **Also familiar with:**
+ <p>
+* Neo4j <br>
+<img src="https://skills-icons.vercel.app/api/icons?i=neo4j" /> <br>
+* SPARQL <br>
+<img src="https://cygri.github.io/rdf-logos/png/no-text-40.png"/>
+</p> 
 
-* Neo4j
-* RDF
-* SPARQL
 * XML
 * UML
-* <p>
-<img src="https://skillicons.dev/icons?i=Neo4j,RDF,SPARQL,XML,UML" />
-</p>
 
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,linux,idea" />
+<img src="https://skillicons.dev/icons?i=git,github,linux,idea,vscode" />
 </p>
 
 ---
 
 ## 📌 Featured Projects
 
-### 🚚 Delivery Management Information System
+###  Delivery Management Information System
 
 A complete web information system developed in a team using:
 
@@ -110,7 +108,7 @@ A complete web information system developed in a team using:
 
 ---
 
-### 🌍 DBnary (LIG Open Source)
+###  DBnary (LIG Open Source)
 
 Contributed to the **DBnary** project by implementing French etymology extraction from Wiktionary and generating RDF graphs.
 
@@ -124,8 +122,18 @@ Technologies:
  🔗 https://gitlab.com/gilles.serasset/dbnary/-/tree/feature/etymology2?ref_type=heads
 
 ---
+### Echo Reborn 
 
-### 🌐 Etymology Browser
+Turn-based RPG developed with MonoGame. The player controls one or multiple characters, explores a world composed of several locations, and engages in turn-based battles against enemies. The project includes :
+* UML modeling, 
+* C# development,
+* .NET framework, 
+* XML data processing.
+
+🔗 https://github.com/d0rich/EchoReborn
+
+---
+###  Etymology Browser
 
 Interactive web application for exploring multilingual etymological graphs generated from DBnary.
 
@@ -138,7 +146,7 @@ Built with:
 
 ---
 
-## 🌍 Languages
+##  Languages
 
 * 🇫🇷 French
 * 🇬🇧 English
@@ -149,7 +157,7 @@ Built with:
 ---
 
 
-## 🤝 Let's Connect
+##  Let's Connect
 
 I'm always interested in:
 
