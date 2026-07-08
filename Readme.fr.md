@@ -1,5 +1,5 @@
 # Bonjour, je suis [Ahcene Bentaha](https://github.com/Ahcene-bn)
-
+ 🇫🇷 Français | [🇬🇧 English Version](README.md) 
 <br/>
 
 <a href="https://github.com/Ahcene-bn">
