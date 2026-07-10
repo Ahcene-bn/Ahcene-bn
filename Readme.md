@@ -159,8 +159,8 @@ Développée avec :
 
 ---
 
-## Me contacter
-
+## Me contacter 
+<a href="mailto:[ahcene@bentaha.dev](mailto:ahcene@bentaha.dev)"> ahcene@bentaha.dev </a> <br>
 Je suis toujours intéressé par :
 
 * Les contributions Open Source
