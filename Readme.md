@@ -1,4 +1,4 @@
-# Bonjour, je suis [Ahcene Bentaha](https://github.com/Ahcene-bn)
+# Bonjour,
  🇫🇷 Français | [🇬🇧 English Version](README.md) 
 <br/>
 
@@ -15,7 +15,7 @@
 <br/>
 <br/>
 
-Bonjour, je suis **Ahcene Bentaha**
+Bonjour, je m'appelle **Ahcene Bentaha**
 
 Licence en Informatique (MIAGE) de **l'Université Grenoble Alpes**.
 
