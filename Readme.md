@@ -1,4 +1,4 @@
-# Bonjour,
+# Bonjour 😊
  🇫🇷 Français | [🇬🇧 English Version](README.eng.md) 
 <br/>
 
